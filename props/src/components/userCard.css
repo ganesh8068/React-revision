@@ -1,0 +1,10 @@
+.user-container {
+  background-color: rgb(122, 0, 138);
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1.5rem;
+  margin-bottom: 10px;
+}
